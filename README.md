@@ -1,0 +1,2 @@
+# EasyBuyCR
+Proyecto de globales 
